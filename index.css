@@ -1,10 +1,10 @@
 #tabela{
     width: 700px;
     margin: 0 auto;
-    border: 1px solid black;
+    border: 1px solid rgb(243, 150, 11);
     border-collapse: collapse;
     thead{
-        background-color: black;
+        background-color: rgb(245, 144, 12);
         color: white;
         th{
             padding: 10px 0;
@@ -13,7 +13,7 @@
     }
     tbody{
         tr:nth-child(even){
-            background-color: #00000015;
+            background-color: #755a0d15;
         }
     }
 }
